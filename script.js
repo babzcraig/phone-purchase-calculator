@@ -3,7 +3,7 @@ const PHONE_PRICE = 19.99;
 const ACCESORY_PRICE = 8.99;
 const SPENDING_THRESHOLD = 30;
 
-var bankBalance = 129;
+var bankBalance = 149;
 var amount = 0;
 
 var formatAmount = function(amt) {
